@@ -19,7 +19,7 @@ cat $urls | tee clicktemp
 clear
 banner
 echo -e "\033[0m"
-python3 clickjack.py clicktemp | tee -a clickjacking-vulnareble.txt
+python3 mod1.py clicktemp | tee -a clickjacking-vulnareble.txt
 rm clicktemp
 echo -e "\033[1;38;5;040m [+] result save into clickjacking-vulnareble.txt"
 echo -e "\033[0m"
