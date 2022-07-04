@@ -11,7 +11,7 @@
       -type: Simple clickjacking vulnablity scanning tool .
       -language: python , bash
       -install: git clone https://github.com/RobinTrigon/clickjack ; cd clickjack ; bash clickjack.sh
-      -thanks: [ ! ]  D4Vinci | Coz python script collect from him.
+      -thanks: D4Vinci | Coz python script collect from him.
       -coded by: Robin Trigon | 3rr0r-404
 
 
